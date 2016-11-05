@@ -1,0 +1,13 @@
+export const AUTH_USER = 'auth_user';
+export const UNAUTH_USER = 'unauth_user';
+export const AUTH_ERROR = 'auth_error';
+export const FETCH_PROMOS = 'fetch_promos';
+export const FETCH_SINGLE_PROMO = 'fetch_single_promo';
+export const FETCH_SAVED_PROMOS = 'fetch_saved_promos';
+export const FETCH_COLLECTIONS = 'fetch_collections';
+export const FETCH_COLLECTION = 'fetch_collection';
+export const FETCH_FEATURED_IMAGE = 'fetch_featured_image';
+export const FETCH_YELP = 'fetch_yelp';
+export const SELECTED_CITY = 'selected_city';
+export const FETCH_VENUE = 'fetch_venue';
+export const SET_USER_ID = 'set_user_id';
