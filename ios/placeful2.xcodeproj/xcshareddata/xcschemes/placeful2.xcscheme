@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "placeful2.app"
-               BlueprintName = "placeful2"
-               ReferencedContainer = "container:placeful2.xcodeproj">
+               BuildableName = "Placeful.app"
+               BlueprintName = "Placeful"
+               ReferencedContainer = "container:Placeful.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "placeful2Tests.xctest"
-               BlueprintName = "placeful2Tests"
-               ReferencedContainer = "container:placeful2.xcodeproj">
+               BuildableName = "PlacefulTests.xctest"
+               BlueprintName = "PlacefulTests"
+               ReferencedContainer = "container:Placeful.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "placeful2Tests.xctest"
-               BlueprintName = "placeful2Tests"
-               ReferencedContainer = "container:placeful2.xcodeproj">
+               BuildableName = "PlacefulTests.xctest"
+               BlueprintName = "PlacefulTests"
+               ReferencedContainer = "container:Placeful.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "placeful2.app"
-            BlueprintName = "placeful2"
-            ReferencedContainer = "container:placeful2.xcodeproj">
+            BuildableName = "Placeful.app"
+            BlueprintName = "Placeful"
+            ReferencedContainer = "container:Placeful.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "placeful2.app"
-            BlueprintName = "placeful2"
-            ReferencedContainer = "container:placeful2.xcodeproj">
+            BuildableName = "Placeful.app"
+            BlueprintName = "Placeful"
+            ReferencedContainer = "container:Placeful.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -99,9 +99,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "placeful2.app"
-            BlueprintName = "placeful2"
-            ReferencedContainer = "container:placeful2.xcodeproj">
+            BuildableName = "Placeful.app"
+            BlueprintName = "Placeful"
+            ReferencedContainer = "container:Placeful.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

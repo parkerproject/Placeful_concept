@@ -1,4 +1,4 @@
-package com.placeful2;
+package com.Placeful;
 
 import android.app.Application;
 import android.util.Log;

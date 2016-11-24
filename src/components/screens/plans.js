@@ -69,6 +69,7 @@ class Plans extends Component {
   pickCity(city) {
     this.props.selectCity(city);
     Actions.plans({ type: 'reset' });
+    this.setState({ isOpen: false });
   }
 
   renderPaginationWaitingView(paginateCallback) {

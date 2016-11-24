@@ -1,4 +1,4 @@
-rootProject.name = 'placeful2'
+rootProject.name = 'Placeful'
 
 include ':app'
 include ':react-native-permissions'

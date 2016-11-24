@@ -4,4 +4,4 @@ import {
 } from 'react-native';
 import Main from './src/main';
 
-AppRegistry.registerComponent('placeful2', () => Main);
+AppRegistry.registerComponent('Placeful', () => Main);

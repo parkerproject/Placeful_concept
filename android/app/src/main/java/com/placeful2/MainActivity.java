@@ -1,4 +1,4 @@
-package com.placeful2;
+package com.Placeful;
 
 import com.facebook.react.ReactActivity;
 import com.robinpowered.react.Intercom.IntercomPackage;
@@ -14,6 +14,6 @@ public class MainActivity extends ReactActivity {
    
     @Override
     protected String getMainComponentName() {
-        return "placeful2";
+        return "Placeful";
     }
 }

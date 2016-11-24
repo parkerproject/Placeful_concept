@@ -87,7 +87,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.placeful2"
+        applicationId "com.Placeful"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 1
